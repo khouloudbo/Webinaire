@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'rfc-webinaire'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BBC5F74D6B4D441491504EB876ACC3B2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_547A706F35AB4B519879AC26A1C1A5DE }}
           package: .
